@@ -17,4 +17,8 @@ class siswa
 {
 private:
 	int id;
+public: 
+	void setid(int pId);
+	void displayAll(orang &a);
 };
+
